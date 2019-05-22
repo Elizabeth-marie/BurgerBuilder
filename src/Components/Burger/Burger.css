@@ -9,8 +9,8 @@
 }
 
 .BurgerContainer  {
-  Width: 250px;
-  Height: 200px;
+  Width: 30%;
+  Height: 100%;
 }
 
 @media (min-width: 500px) and (min-heght: 400px) {
