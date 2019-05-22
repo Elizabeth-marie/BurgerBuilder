@@ -8,6 +8,11 @@
   font-size: 1.2rem;
 }
 
+.BurgerContainer  {
+  Width: 250px;
+  Height: 200px;
+}
+
 @media (min-width: 500px) and (min-heght: 400px) {
   .Burger {
     width: 350px;
