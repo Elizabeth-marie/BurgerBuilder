@@ -2,7 +2,7 @@
   width: 100%;
   margin: auto;
   height: 250px;
-  text-align: center;
+  /* text-align: center; */
   font-weight: bold;
   font-size: 1.2rem;
 }
@@ -11,6 +11,9 @@
   Width: 40%;
   Height: 100%;
   overflow: scroll;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (min-width: 500px) and (min-heght: 400px) {
